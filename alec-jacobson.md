@@ -1,0 +1,192 @@
+
+ - Alec Jacobson
+    - [Olga Sorkine-Hornung](https://en.wikipedia.org/wiki/Olga_Sorkine-Hornung)
+       - Daniel Cohen-Or
+          - [Arie E. Kaufman](https://en.wikipedia.org/wiki/Arie_E._Kaufman)
+             - [Samuel Bergman](https://en.wikipedia.org/wiki/Hugo_Bergmann)
+                - [Hisao M. Yamada](https://en.wikipedia.org/wiki/Hisao_Yamada)
+                   - [Robert Forbes McNaughton, Jr.](https://en.wikipedia.org/wiki/Robert_McNaughton)
+                      - [Willard Van Orman Quine](https://en.wikipedia.org/wiki/Willard_Van_Orman_Quine)
+                         - [Alfred North Whitehead](https://en.wikipedia.org/wiki/Alfred_North_Whitehead)
+                            - [Edward John Routh](https://en.wikipedia.org/wiki/Edward_Routh)
+                               - [William Hopkins](https://en.wikipedia.org/wiki/William_Hopkins)
+                                  - [Adam Sedgwick](https://en.wikipedia.org/wiki/Adam_Sedgwick)
+                                     - [Thomas Jones](https://en.wikipedia.org/wiki/Tom_Jones_(singer))
+                                        - [Thomas Postlethwaite](https://en.wikipedia.org/wiki/Thomas_Postlethwaite)
+                                           - [Stephen Whisson](https://en.wikipedia.org/wiki/Stephen_Whisson)
+                                              - Walter Taylor
+                                                 - [Robert Smith](https://en.wikipedia.org/wiki/Robert_Smith_(musician))
+                                                    - [Roger Cotes](https://en.wikipedia.org/wiki/Roger_Cotes)
+                                                       - [Isaac Newton](https://en.wikipedia.org/wiki/Isaac_Newton)
+                                                          - [Isaac Barrow](https://en.wikipedia.org/wiki/Isaac_Barrow)
+                                                             - [Vincenzo Viviani](https://en.wikipedia.org/wiki/Vincenzo_Viviani)
+                                                                - [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei)
+                                                                   - [Ostilio Ricci](https://en.wikipedia.org/wiki/Ostilio_Ricci)
+                                                                      - [Niccolò Fontana Tartaglia](https://en.wikipedia.org/wiki/Niccol%C3%B2_Fontana_Tartaglia)
+                                                                - [Evangelista Torricelli](https://en.wikipedia.org/wiki/Evangelista_Torricelli)
+                                                                   - [Benedetto Castelli](https://en.wikipedia.org/wiki/Benedetto_Castelli)
+                                                                      - Galileo Galilei (see above)
+                                                             - [Gilles Personne de Roberval](https://en.wikipedia.org/wiki/Gilles_de_Roberval)
+                                                                - [Marin Mersenne](https://en.wikipedia.org/wiki/Marin_Mersenne)
+                                                          - [Benjamin Pulleyn](https://en.wikipedia.org/wiki/Benjamin_Pulleyn)
+                                        - [John Cranke](https://en.wikipedia.org/wiki/John_Cranke)
+                                     - John Dawson
+                                        - [Edward Waring](https://en.wikipedia.org/wiki/Edward_Waring)
+                                        - [Henry Bracken](https://en.wikipedia.org/wiki/Henry_Bracken)
+                                           - [Herman Boerhaave](https://en.wikipedia.org/wiki/Herman_Boerhaave)
+                                              - Wolferd Senguerdius
+                                                 - Arnold Senguerdius
+                                                    - [Antonius Thysius](https://en.wikipedia.org/wiki/Antonius_Thysius_the_Elder)
+                                                       - [Lambert Daneau](https://en.wikipedia.org/wiki/Lambert_Daneau)
+                                                          - [Adrien Turnèbe](https://en.wikipedia.org/wiki/Adrianus_Turnebus)
+                                                             - Jacques Toussain
+                                                                - [Guillaume Budé](https://en.wikipedia.org/wiki/Guillaume_Bud%C3%A9)
+                                                                   - Georgius Hermonymus
+                                                                   - [Janus Lascaris](https://en.wikipedia.org/wiki/Janus_Lascaris)
+                                                                      - [Basilios Bessarion](https://en.wikipedia.org/wiki/Bessarion)
+                                                                         - [Georgios Plethon Gemistos](https://en.wikipedia.org/wiki/Gemistos_Plethon)
+                                                                            - [Demetrios Kydones](https://en.wikipedia.org/wiki/Demetrios_Kydones)
+                                                                               - [Nilos Kabasilas](https://en.wikipedia.org/wiki/Neilos_Kabasilas)
+                                                                                  - [Gregory Palamas](https://en.wikipedia.org/wiki/Gregory_Palamas)
+                                                                                     - [Theodore Metochites](https://en.wikipedia.org/wiki/Theodore_Metochites)
+                                                                                        - [Manuel Bryennios](https://en.wikipedia.org/wiki/Manuel_Bryennios)
+                                                                                           - Gregory Chioniadis
+                                                                                              - [Shams al‐Dīn al‐Bukhārī](https://en.wikipedia.org/wiki/Shams_al-Din_al-Samarqandi)
+                                                                                                 - [Nasir al-Dīn al-Ṭūsī](https://en.wikipedia.org/wiki/Nasir_al-Din_al-Tusi)
+                                                                                                    - Kamāl al-Dīn Ibn Yūnus
+                                                                                                       - [Sharaf al-Dīn al-Ṭūsī](https://en.wikipedia.org/wiki/Sharaf_al-Din_al-Tusi)
+                                                                                                       - Saraf al-Dīn Muhammad al-Masʿūdī
+                                                                                                    - Athīr al-Dīn al-Mufaḍḍal al-Abharī
+                                                                                                       - Kamāl al-Dīn Ibn Yūnus (see above)
+                                                                                                       - Qutb al-Dīn Ibrāhīm al-Mīṣrī
+                                                                                                          - Fakhr al-Dīn Muhammad al-Rēzī
+                                                                                                             - Saraf al-Dīn Muhammad al-Masʿūdī (see above)
+                                                                            - Elissaeus Judaeus
+                                                                      - [Demetrios Chalcocondyles](https://en.wikipedia.org/wiki/Demetrios_Chalkokondyles)
+                                                                         - [Theodoros Gazes](https://en.wikipedia.org/wiki/Theodorus_Gaza)
+                                                                            - [Vittorino da Feltre](https://en.wikipedia.org/wiki/Vittorino_da_Feltre)
+                                                                               - [Guarino da Verona](https://en.wikipedia.org/wiki/Guarino_da_Verona)
+                                                                                  - [Manuel Chrysoloras](https://en.wikipedia.org/wiki/Manuel_Chrysoloras)
+                                                                                     - Demetrios Kydones (see above)
+                                                          - [Anne du Bourg](https://en.wikipedia.org/wiki/Anne_du_Bourg)
+                                                          - [Johannes Calvin](https://en.wikipedia.org/wiki/John_Calvin)
+                                                             - Melchior Wolmar
+                                                                - [Jacques (Jacobus Faber) Lefèvre d'Étaples](https://en.wikipedia.org/wiki/Jacques_Lef%C3%A8vre_d%27%C3%89taples)
+                                                                   - Georgius Hermonymus (see above)
+                                                                   - [Johannes Argyropoulos](https://en.wikipedia.org/wiki/John_Argyropoulos)
+                                                                      - Basilios Bessarion (see above)
+                                                                - Guillaume Budé (see above)
+                                                             - [Andrea Alciati](https://en.wikipedia.org/wiki/Andrea_Alciato)
+                                                       - [Theodorus (Théodore de Bèze) Beza](https://en.wikipedia.org/wiki/Theodore_Beza)
+                                                          - Melchior Wolmar (see above)
+                                                    - [Franck Pieterszoon Burgersdijk](https://en.wikipedia.org/wiki/Franco_Burgersdijk)
+                                                       - [Gilbert Jacchaeus](https://en.wikipedia.org/wiki/Gilbert_Jack)
+                                                          - [Duncan Liddel](https://en.wikipedia.org/wiki/Duncan_Liddel)
+                                                             - John Craig
+                                                                - [Theodor Zwinger](https://en.wikipedia.org/wiki/Theodor_Zwinger)
+                                                                   - [Petrus (Pierre de La Ramée) Ramus](https://en.wikipedia.org/wiki/Petrus_Ramus)
+                                                                      - [Johannes (Johann Sturm) Sturmius](https://en.wikipedia.org/wiki/Johannes_Sturm)
+                                                                         - [Nicolas (Nicolaes Cleynaerts) Clénard](https://en.wikipedia.org/wiki/Nicolas_Cleynaerts)
+                                                                            - [Jacobus (Jacques Masson) Latomus](https://en.wikipedia.org/wiki/Jacobus_Latomus)
+                                                                               - [Jan Standonck](https://en.wikipedia.org/wiki/Jan_Standonck)
+                                                                            - [Jan (Johannes Campensis) van Campen](https://en.wikipedia.org/wiki/Johannes_Campensis)
+                                                                               - Johann (Johannes Kapnion) Reuchlin
+                                                                                  - Johannes Argyropoulos (see above)
+                                                                                  - Jacob ben Jehiel Loans
+                                                                               - Matthaeus Adrianus
+                                                                         - [Johannes Winter von Andernach](https://en.wikipedia.org/wiki/Johann_Winter_von_Andernach)
+                                                                            - Rutger Rescius
+                                                                               - [Girolamo (Hieronymus Aleander) Aleandro](https://en.wikipedia.org/wiki/Girolamo_Aleandro)
+                                                                                  - [Moses Perez](https://en.wikipedia.org/wiki/Moses_Farrow)
+                                                                                  - Scipione Fortiguerra
+                                                                                     - [Angelo Poliziano](https://en.wikipedia.org/wiki/Poliziano)
+                                                                                        - [Marsilio Ficino](https://en.wikipedia.org/wiki/Marsilio_Ficino)
+                                                                                           - Johannes Argyropoulos (see above)
+                                                                                        - [Cristoforo Landino](https://en.wikipedia.org/wiki/Cristoforo_Landino)
+                                                                            - [Jacobus (Jacques Dubois) Sylvius](https://en.wikipedia.org/wiki/Jacques_Dubois)
+                                                                               - [Jean Tagault](https://en.wikipedia.org/wiki/Jean_Tagault)
+                                                                               - [François Dubois](https://en.wikipedia.org/wiki/Fran%C3%A7ois_Dubois)
+                                                                      - Jacques Toussain (see above)
+                                                                   - Bassiano Landi
+                                                                      - [Giovanni Battista della Monte](https://en.wikipedia.org/wiki/Johannes_Baptista_Montanus)
+                                                                         - [Marco Musuro](https://en.wikipedia.org/wiki/Marcus_Musurus)
+                                                                            - Janus Lascaris (see above)
+                                                                         - [Pietro Pomponazzi](https://en.wikipedia.org/wiki/Pietro_Pomponazzi)
+                                                                            - [Nicoletto Vernia](https://en.wikipedia.org/wiki/Nicoletto_Vernia)
+                                                                               - Gaetano da Thiene
+                                                                                  - Paolo (Nicoletti) da Venezia
+                                                                            - Pietro Roccabonella
+                                                                               - Gaetano da Thiene (see above)
+                                                                               - [Sigismondo Polcastro](https://en.wikipedia.org/wiki/Sigismondo_Polcastro)
+                                                                         - [Niccolò Leoniceno](https://en.wikipedia.org/wiki/Niccol%C3%B2_Leoniceno)
+                                                                            - Ognibene (Omnibonus Leonicenus) Bonisoli da Lonigo
+                                                                               - Vittorino da Feltre (see above)
+                                                                            - Pelope
+                                                                            - Pietro Roccabonella (see above)
+                                                                      - [Vittore Trincavelli](https://en.wikipedia.org/wiki/Vittore_Trincavelli)
+                                                                         - Pietro Pomponazzi (see above)
+                                                                   - Vittore Trincavelli (see above)
+                                                             - [Paul Wittich](https://en.wikipedia.org/wiki/Paul_Wittich)
+                                                                - Valentin Thau
+                                                                   - [Johannes Hommel](https://en.wikipedia.org/wiki/Johann_Hommel)
+                                                                      - [Erasmus Reinhold](https://en.wikipedia.org/wiki/Erasmus_Reinhold)
+                                                                         - [Jakob Milich](https://en.wikipedia.org/wiki/Jacob_Milich)
+                                                                            - [Desiderius Erasmus](https://en.wikipedia.org/wiki/Erasmus)
+                                                                               - Jan Standonck (see above)
+                                                                               - [Alexander Hegius](https://en.wikipedia.org/wiki/Alexander_Hegius_von_Heek)
+                                                                                  - [Rudolf Agricola](https://en.wikipedia.org/wiki/Rodolphus_Agricola)
+                                                                                     - Theodoros Gazes (see above)
+                                                                                  - [Thomas von Kempen à Kempis](https://en.wikipedia.org/wiki/Thomas_%C3%A0_Kempis)
+                                                                                     - [Geert Gerardus Magnus Groote](https://en.wikipedia.org/wiki/Geert_Groote)
+                                                                                     - [Florens Florentius Radwyn Radewyns](https://en.wikipedia.org/wiki/Florens_Radewyns)
+                                                                            - [Ulrich Zasius](https://en.wikipedia.org/wiki/Ulrich_Zasius)
+                                                                      - [Philipp Melanchthon](https://en.wikipedia.org/wiki/Philip_Melanchthon)
+                                                                         - [Johannes Stöffler](https://en.wikipedia.org/wiki/Johannes_St%C3%B6ffler)
+                                                                         - Johann (Johannes Kapnion) Reuchlin (see above)
+                                                          - Jacobus (Jacob Harmensz.) Arminius
+                                                             - Rudolph (Snel van Royen) Snellius
+                                                                - [Valentine Naibod](https://en.wikipedia.org/wiki/Valentin_Naboth)
+                                                                   - Erasmus Reinhold (see above)
+                                                                - [Immanuel Tremellius](https://en.wikipedia.org/wiki/Immanuel_Tremellius)
+                                                                   - [Thomas Cranmer](https://en.wikipedia.org/wiki/Thomas_Cranmer)
+                                              - [Burchard de Volder](https://en.wikipedia.org/wiki/Burchard_de_Volder)
+                                                 - [Johannes de Bruyn](https://en.wikipedia.org/wiki/Johannes_Bruyn)
+                                                    - Daniel Berckringer
+                                                       - [Martinus Schoock](https://en.wikipedia.org/wiki/Martin_Schoock)
+                                                          - [Henricus Renerius](https://en.wikipedia.org/wiki/Henricus_Reneri)
+                                                             - [Johannes Polyander van Kerckhoven](https://en.wikipedia.org/wiki/Johannes_Polyander)
+                                                                - François Du Jon, Sr.
+                                                                   - Johannes Calvin (see above)
+                                                                - Theodorus (Théodore de Bèze) Beza (see above)
+                                                             - Franck Pieterszoon Burgersdijk (see above)
+                                                          - [Gisbertus Voetius](https://en.wikipedia.org/wiki/Gisbertus_Voetius)
+                                                             - [Franciscus (François Gomaer) Gomarus](https://en.wikipedia.org/wiki/Franciscus_Gomarus)
+                                                                - Johannes (Johann Sturm) Sturmius (see above)
+                                                                - François Du Jon, Sr. (see above)
+                                                 - [Franciscus de le Boë Sylvius](https://en.wikipedia.org/wiki/Franciscus_Sylvius)
+                                                    - [Adolph Vorstius](https://en.wikipedia.org/wiki/Vorstius)
+                                                       - Gilbert Jacchaeus (see above)
+                                                       - [Adriaan van den Spieghel](https://en.wikipedia.org/wiki/Adriaan_van_den_Spiegel)
+                                                          - [Hieronymus (Girolamo Fabrici d'Acquapendente) Fabricius](https://en.wikipedia.org/wiki/Hieronymus_Fabricius)
+                                                             - [Gabriele Falloppio](https://en.wikipedia.org/wiki/Gabriele_Falloppio)
+                                                                - [Antonio Musa Brasavola](https://en.wikipedia.org/wiki/Antonio_Musa_Brassavola)
+                                                                   - Niccolò Leoniceno (see above)
+                                                                - [Matteo Realdo (Renaldus Columbus) Colombo](https://en.wikipedia.org/wiki/Realdo_Colombo)
+                                                                   - [Andreas (Andries van Wesel) Vesalius](https://en.wikipedia.org/wiki/Andreas_Vesalius)
+                                                                      - Johannes Winter von Andernach (see above)
+                                                                      - [Gemma (Jemme Reinerszoon) Frisius](https://en.wikipedia.org/wiki/Gemma_Frisius)
+                                                                         - Petrus (Pieter de Corte) Curtius
+                                                                            - [Maarten (Martinus Dorpius) van Dorp](https://en.wikipedia.org/wiki/Martinus_Dorpius)
+                                                                               - [Leo Outers](https://en.wikipedia.org/wiki/Leo_Frank)
+                                                                      - Giovanni Battista della Monte (see above)
+                                                    - [Emmanuel Stupanus](https://en.wikipedia.org/wiki/Emmanuel_Stupanus)
+                                                       - [Petrus Ryff](https://en.wikipedia.org/wiki/Petrus_Ryff)
+                                                          - [Felix Plater](https://en.wikipedia.org/wiki/Felix_Platter)
+                                                             - [Guillaume Rondelet](https://en.wikipedia.org/wiki/Guillaume_Rondelet)
+                                                                - Johannes Winter von Andernach (see above)
+                               - [Isaac Todhunter](https://en.wikipedia.org/wiki/Isaac_Todhunter)
+                                  - William Hopkins (see above)
+
+```
+{'211165': {'name': 'Alec Jacobson', 'advisor_ids': ['211164']}, '211164': {'name': 'Olga Sorkine-Hornung', 'advisor_ids': ['211163']}, '211163': {'name': 'Daniel Cohen-Or', 'advisor_ids': ['81452']}, '81452': {'name': 'Arie E. Kaufman', 'advisor_ids': ['129760']}, '129760': {'name': 'Samuel Bergman', 'advisor_ids': ['53467']}, '53467': {'name': 'Hisao M. Yamada', 'advisor_ids': ['74578']}, '74578': {'name': 'Robert Forbes McNaughton, Jr.', 'advisor_ids': ['73831']}, '73831': {'name': 'Willard Van Orman Quine', 'advisor_ids': ['78732']}, '78732': {'name': 'Alfred North Whitehead', 'advisor_ids': ['101929']}, '101929': {'name': 'Edward John Routh', 'advisor_ids': ['129420', '42016']}, '42016': {'name': 'William Hopkins', 'advisor_ids': ['102043']}, '102043': {'name': 'Adam Sedgwick', 'advisor_ids': ['102037', '102036']}, '102036': {'name': 'Thomas Jones', 'advisor_ids': ['103066', '133301']}, '133301': {'name': 'Thomas Postlethwaite', 'advisor_ids': ['133367']}, '133367': {'name': 'Stephen Whisson', 'advisor_ids': ['133368']}, '133368': {'name': 'Walter Taylor', 'advisor_ids': ['103068']}, '103068': {'name': 'Robert Smith', 'advisor_ids': ['103067']}, '103067': {'name': 'Roger Cotes', 'advisor_ids': ['74313']}, '74313': {'name': 'Isaac Newton', 'advisor_ids': ['121201', '67643']}, '67643': {'name': 'Isaac Barrow', 'advisor_ids': ['133303', '133302']}, '133302': {'name': 'Vincenzo Viviani', 'advisor_ids': ['154455', '134975']}, '134975': {'name': 'Galileo Galilei', 'advisor_ids': ['136245']}, '136245': {'name': 'Ostilio Ricci', 'advisor_ids': ['136514']}, '136514': {'name': 'Niccolò Fontana Tartaglia', 'advisor_ids': []}, '154455': {'name': 'Evangelista Torricelli', 'advisor_ids': ['136575']}, '136575': {'name': 'Benedetto Castelli', 'advisor_ids': ['134975']}, '133303': {'name': 'Gilles Personne de Roberval', 'advisor_ids': ['125434']}, '125434': {'name': 'Marin Mersenne', 'advisor_ids': []}, '121201': {'name': 'Benjamin Pulleyn', 'advisor_ids': []}, '103066': {'name': 'John Cranke', 'advisor_ids': []}, '102037': {'name': 'John Dawson', 'advisor_ids': ['129422', '129421']}, '129421': {'name': 'Edward Waring', 'advisor_ids': []}, '129422': {'name': 'Henry Bracken', 'advisor_ids': ['101856']}, '101856': {'name': 'Herman Boerhaave', 'advisor_ids': ['101858', '115155']}, '115155': {'name': 'Wolferd Senguerdius', 'advisor_ids': ['115471']}, '115471': {'name': 'Arnold Senguerdius', 'advisor_ids': ['115008', '115395']}, '115395': {'name': 'Antonius Thysius', 'advisor_ids': ['131821', '152238']}, '152238': {'name': 'Lambert Daneau', 'advisor_ids': ['132044', '152237', '131606']}, '131606': {'name': 'Adrien Turnèbe', 'advisor_ids': ['131546']}, '131546': {'name': 'Jacques Toussain', 'advisor_ids': ['131517']}, '131517': {'name': 'Guillaume Budé', 'advisor_ids': ['131541', '131443']}, '131443': {'name': 'Georgius Hermonymus', 'advisor_ids': []}, '131541': {'name': 'Janus Lascaris', 'advisor_ids': ['131576', '131561']}, '131561': {'name': 'Basilios Bessarion', 'advisor_ids': ['131575']}, '131575': {'name': 'Georgios Plethon Gemistos', 'advisor_ids': ['134781', '134780']}, '134780': {'name': 'Demetrios Kydones', 'advisor_ids': ['146365']}, '146365': {'name': 'Nilos Kabasilas', 'advisor_ids': ['176844']}, '176844': {'name': 'Gregory Palamas', 'advisor_ids': ['184631']}, '184631': {'name': 'Theodore Metochites', 'advisor_ids': ['184632']}, '184632': {'name': 'Manuel Bryennios', 'advisor_ids': ['201288']}, '201288': {'name': 'Gregory Chioniadis', 'advisor_ids': ['204293']}, '204293': {'name': 'Shams al‐Dīn al‐Bukhārī', 'advisor_ids': ['217509']}, '217509': {'name': 'Nasir al-Dīn al-Ṭūsī', 'advisor_ids': ['287480', '223724']}, '223724': {'name': 'Kamāl al-Dīn Ibn Yūnus', 'advisor_ids': ['287466', '230926']}, '230926': {'name': 'Sharaf al-Dīn al-Ṭūsī', 'advisor_ids': []}, '287466': {'name': 'Saraf al-Dīn Muhammad al-Masʿūdī', 'advisor_ids': []}, '287480': {'name': 'Athīr al-Dīn al-Mufaḍḍal al-Abharī', 'advisor_ids': ['287479', '223724']}, '287479': {'name': 'Qutb al-Dīn Ibrāhīm al-Mīṣrī', 'advisor_ids': ['287478']}, '287478': {'name': 'Fakhr al-Dīn Muhammad al-Rēzī', 'advisor_ids': ['287466']}, '134781': {'name': 'Elissaeus Judaeus', 'advisor_ids': []}, '131576': {'name': 'Demetrios Chalcocondyles', 'advisor_ids': ['131584']}, '131584': {'name': 'Theodoros Gazes', 'advisor_ids': ['134873']}, '134873': {'name': 'Vittorino da Feltre', 'advisor_ids': ['134931']}, '134931': {'name': 'Guarino da Verona', 'advisor_ids': ['135185']}, '135185': {'name': 'Manuel Chrysoloras', 'advisor_ids': ['134780']}, '152237': {'name': 'Anne du Bourg', 'advisor_ids': []}, '132044': {'name': 'Johannes Calvin', 'advisor_ids': ['132045', '131905']}, '131905': {'name': 'Melchior Wolmar', 'advisor_ids': ['131517', '131398']}, '131398': {'name': "Jacques (Jacobus Faber) Lefèvre d'Étaples", 'advisor_ids': ['131444', '131443']}, '131444': {'name': 'Johannes Argyropoulos', 'advisor_ids': ['131561']}, '132045': {'name': 'Andrea Alciati', 'advisor_ids': []}, '131821': {'name': 'Theodorus (Théodore de Bèze) Beza', 'advisor_ids': ['131905']}, '115008': {'name': 'Franck Pieterszoon Burgersdijk', 'advisor_ids': ['114992']}, '114992': {'name': 'Gilbert Jacchaeus', 'advisor_ids': ['126489', '128122']}, '128122': {'name': 'Duncan Liddel', 'advisor_ids': ['128348', '128305']}, '128305': {'name': 'John Craig', 'advisor_ids': ['125148']}, '125148': {'name': 'Theodor Zwinger', 'advisor_ids': ['152905', '152906', '125047']}, '125047': {'name': 'Petrus (Pierre de La Ramée) Ramus', 'advisor_ids': ['131546', '125665']}, '125665': {'name': 'Johannes (Johann Sturm) Sturmius', 'advisor_ids': ['119159', '125658']}, '125658': {'name': 'Nicolas (Nicolaes Cleynaerts) Clénard', 'advisor_ids': ['125682', '125681']}, '125681': {'name': 'Jacobus (Jacques Masson) Latomus', 'advisor_ids': ['125888']}, '125888': {'name': 'Jan Standonck', 'advisor_ids': []}, '125682': {'name': 'Jan (Johannes Campensis) van Campen', 'advisor_ids': ['125794', '125760']}, '125760': {'name': 'Johann (Johannes Kapnion) Reuchlin', 'advisor_ids': ['125755', '131444']}, '125755': {'name': 'Jacob ben Jehiel Loans', 'advisor_ids': []}, '125794': {'name': 'Matthaeus Adrianus', 'advisor_ids': []}, '119159': {'name': 'Johannes Winter von Andernach', 'advisor_ids': ['125422', '126571']}, '126571': {'name': 'Rutger Rescius', 'advisor_ids': ['127181']}, '127181': {'name': 'Girolamo (Hieronymus Aleander) Aleandro', 'advisor_ids': ['131447', '131446']}, '131446': {'name': 'Moses Perez', 'advisor_ids': []}, '131447': {'name': 'Scipione Fortiguerra', 'advisor_ids': ['131535']}, '131535': {'name': 'Angelo Poliziano', 'advisor_ids': ['131540', '131539']}, '131539': {'name': 'Marsilio Ficino', 'advisor_ids': ['131444']}, '131540': {'name': 'Cristoforo Landino', 'advisor_ids': []}, '125422': {'name': 'Jacobus (Jacques Dubois) Sylvius', 'advisor_ids': ['128987', '128921']}, '128921': {'name': 'Jean Tagault', 'advisor_ids': []}, '128987': {'name': 'François Dubois', 'advisor_ids': []}, '152906': {'name': 'Bassiano Landi', 'advisor_ids': ['152905', '152904']}, '152904': {'name': 'Giovanni Battista della Monte', 'advisor_ids': ['127166', '152903', '152901']}, '152901': {'name': 'Marco Musuro', 'advisor_ids': ['131541']}, '152903': {'name': 'Pietro Pomponazzi', 'advisor_ids': ['136726', '152902']}, '152902': {'name': 'Nicoletto Vernia', 'advisor_ids': ['148882']}, '148882': {'name': 'Gaetano da Thiene', 'advisor_ids': ['232227']}, '232227': {'name': 'Paolo (Nicoletti) da Venezia', 'advisor_ids': []}, '136726': {'name': 'Pietro Roccabonella', 'advisor_ids': ['164338', '148882']}, '164338': {'name': 'Sigismondo Polcastro', 'advisor_ids': []}, '127166': {'name': 'Niccolò Leoniceno', 'advisor_ids': ['136726', '127144', '149192']}, '149192': {'name': 'Ognibene (Omnibonus Leonicenus) Bonisoli da Lonigo', 'advisor_ids': ['134873']}, '127144': {'name': 'Pelope', 'advisor_ids': []}, '152905': {'name': 'Vittore Trincavelli', 'advisor_ids': ['152903']}, '128348': {'name': 'Paul Wittich', 'advisor_ids': ['127092']}, '127092': {'name': 'Valentin Thau', 'advisor_ids': ['127011']}, '127011': {'name': 'Johannes Hommel', 'advisor_ids': ['126956', '126736']}, '126736': {'name': 'Erasmus Reinhold', 'advisor_ids': ['126667']}, '126667': {'name': 'Jakob Milich', 'advisor_ids': ['126659', '125938']}, '125938': {'name': 'Desiderius Erasmus', 'advisor_ids': ['125898', '125888']}, '125898': {'name': 'Alexander Hegius', 'advisor_ids': ['140181', '128012']}, '128012': {'name': 'Rudolf Agricola', 'advisor_ids': ['131584']}, '140181': {'name': 'Thomas von Kempen à Kempis', 'advisor_ids': ['179837', '179836']}, '179836': {'name': 'Geert Gerardus Magnus Groote', 'advisor_ids': []}, '179837': {'name': 'Florens Florentius Radwyn Radewyns', 'advisor_ids': []}, '126659': {'name': 'Ulrich Zasius', 'advisor_ids': []}, '126956': {'name': 'Philipp Melanchthon', 'advisor_ids': ['125760', '127107']}, '127107': {'name': 'Johannes Stöffler', 'advisor_ids': []}, '126489': {'name': 'Jacobus (Jacob Harmensz.) Arminius', 'advisor_ids': ['125181']}, '125181': {'name': 'Rudolph (Snel van Royen) Snellius', 'advisor_ids': ['125159', '125160']}, '125160': {'name': 'Valentine Naibod', 'advisor_ids': ['126736']}, '125159': {'name': 'Immanuel Tremellius', 'advisor_ids': ['141571']}, '141571': {'name': 'Thomas Cranmer', 'advisor_ids': []}, '101858': {'name': 'Burchard de Volder', 'advisor_ids': ['101860', '114945']}, '114945': {'name': 'Johannes de Bruyn', 'advisor_ids': ['114927']}, '114927': {'name': 'Daniel Berckringer', 'advisor_ids': ['144265']}, '144265': {'name': 'Martinus Schoock', 'advisor_ids': ['132468', '144264']}, '144264': {'name': 'Henricus Renerius', 'advisor_ids': ['115008', '144263']}, '144263': {'name': 'Johannes Polyander van Kerckhoven', 'advisor_ids': ['131821', '144262']}, '144262': {'name': 'François Du Jon, Sr.', 'advisor_ids': ['132044']}, '132468': {'name': 'Gisbertus Voetius', 'advisor_ids': ['132488']}, '132488': {'name': 'Franciscus (François Gomaer) Gomarus', 'advisor_ids': ['144262', '125665']}, '101860': {'name': 'Franciscus de le Boë Sylvius', 'advisor_ids': ['125125', '125023']}, '125023': {'name': 'Adolph Vorstius', 'advisor_ids': ['125006', '114992']}, '125006': {'name': 'Adriaan van den Spieghel', 'advisor_ids': ['125109']}, '125109': {'name': "Hieronymus (Girolamo Fabrici d'Acquapendente) Fabricius", 'advisor_ids': ['125142']}, '125142': {'name': 'Gabriele Falloppio', 'advisor_ids': ['125303', '127245']}, '127245': {'name': 'Antonio Musa Brasavola', 'advisor_ids': ['127166']}, '125303': {'name': 'Matteo Realdo (Renaldus Columbus) Colombo', 'advisor_ids': ['119178']}, '119178': {'name': 'Andreas (Andries van Wesel) Vesalius', 'advisor_ids': ['152904', '119097', '119159']}, '119097': {'name': 'Gemma (Jemme Reinerszoon) Frisius', 'advisor_ids': ['125892']}, '125892': {'name': 'Petrus (Pieter de Corte) Curtius', 'advisor_ids': ['125894']}, '125894': {'name': 'Maarten (Martinus Dorpius) van Dorp', 'advisor_ids': ['125897']}, '125897': {'name': 'Leo Outers', 'advisor_ids': []}, '125125': {'name': 'Emmanuel Stupanus', 'advisor_ids': ['130248']}, '130248': {'name': 'Petrus Ryff', 'advisor_ids': ['182090']}, '182090': {'name': 'Felix Plater', 'advisor_ids': ['158329']}, '158329': {'name': 'Guillaume Rondelet', 'advisor_ids': ['119159']}, '129420': {'name': 'Isaac Todhunter', 'advisor_ids': ['42016']}}
+```
