@@ -24,7 +24,8 @@ def main():
     while len(queue) > 0:
         (student_id,depth) = queue.pop()
         if student_id in people:
-            print(f"{' '*3*(depth)} - {people[student_id]['name']} (see above)")
+            #print(f"{' '*3*(depth)} - {people[student_id]['name']} (see above)")
+            print(f"{' '*2*(depth)} {people[student_id]['name']} (see above)  ")
             continue
         url = f"https://mathgenealogy.org/id.php?id={student_id}"
         content = download_website(url)
@@ -33,7 +34,8 @@ def main():
         advisor_ids = extract_advisors(soup)
         people[student_id] = {'name': student_name, 'advisor_ids': advisor_ids}
         student_name_str = wiki_url_or_raw(student_name)
-        print(f"{' '*3*(depth)} - {student_name_str}")
+        #print(f"{' '*3*(depth)} - {student_name_str}")
+        print(f"{' '*2*(depth)} {student_name_str}  ")
         queue.extend([(a,depth+1) for a in advisor_ids])
 
     print(f"""
