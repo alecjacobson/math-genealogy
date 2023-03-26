@@ -2,7 +2,7 @@ import re
 import requests
 import sys
 from bs4 import BeautifulSoup
-from wiki import wiki_url_or_raw
+from wiki import closest_wiki_page, wiki_thumbnail
 
 people = {}
 queue = []
@@ -19,12 +19,13 @@ def main():
     queue.append((student_id,depth))
 
 
+    output_thumbnails = True
+
     # markdown likes a blank line at the beginning
     print("")
     while len(queue) > 0:
         (student_id,depth) = queue.pop()
         if student_id in people:
-            #print(f"{' '*3*(depth)} - {people[student_id]['name']} (see above)")
             print(f"{' '*2*(depth)} {people[student_id]['name']} (see above)  ")
             continue
         url = f"https://mathgenealogy.org/id.php?id={student_id}"
@@ -33,8 +34,20 @@ def main():
         student_name = extract_name(soup)
         advisor_ids = extract_advisors(soup)
         people[student_id] = {'name': student_name, 'advisor_ids': advisor_ids}
-        student_name_str = wiki_url_or_raw(student_name)
-        #print(f"{' '*3*(depth)} - {student_name_str}")
+
+        page = closest_wiki_page(student_name)
+        if page is None:
+            student_name_str = student_name
+        else:
+            student_name_str = f"[{student_name}]({page.url})"
+
+        already_printed = False
+        if page is not None and output_thumbnails:
+            thumbnail_url = wiki_thumbnail(page.url,pithumbsize=100)
+            if thumbnail_url is not None:
+                student_name_str = f"![{student_name}]({thumbnail_url}) {student_name_str}"
+                already_printed = True
+
         print(f"{' '*2*(depth)} {student_name_str}  ")
         queue.extend([(a,depth+1) for a in advisor_ids])
 
